@@ -1,0 +1,6 @@
+#page #st1 {
+    height: 100vh;
+    background-image: url(/assets/bg/white.png), url(/assets/bg/white.png), url(/assets/bg/2022-01-26_11.00.07.png);
+    background-size: cover;
+    background-position: 50%;
+}
